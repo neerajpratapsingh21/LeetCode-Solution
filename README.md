@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -209,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
