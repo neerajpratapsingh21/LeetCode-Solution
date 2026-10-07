@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1051-height-checker) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
@@ -202,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
