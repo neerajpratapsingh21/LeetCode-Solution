@@ -1,32 +1,37 @@
 class MinStack {
-    private Stack<Integer> val;
-    private Stack<Integer> minimum;
- 
-    public MinStack() {
-        val = new Stack<>();
-        minimum = new Stack<>();
-    }
-    public void push(int value) {
-       val.push(value);
-       if(minimum.isEmpty()){
-        minimum.push(value);
-       }else{
-        minimum.push(Math.min(value,minimum.peek()));
+    private Deque<Long> st = new ArrayDeque<>();
+          long min = 0;
+    public void push(int val) {
+       if(st.isEmpty()) {
+        min = val;
+        st.push((long)val);
+       }
+       else{
+        if(min < val) st.push((long)val);
+        else{
+          st.push(2L*val - min);
+          min = val;
+        }
        }
     }
     
     public void pop() {
-        val.pop();
-        minimum.pop();
+       if(st.isEmpty()) return ;
+       long x = st.pop();
+       if(x < min ){
+        min = 2*min - x;
+       }
     }
     
     public int top() {
-        return val.peek();
+      if(st.isEmpty()) return -1 ;
+      long x = st.peek();
+       return (int)Math.max(x,min);
     }
     
     public int getMin() {
-        return minimum.peek();
-    }
+      return (int)min;
+}
 }
 
 /**
