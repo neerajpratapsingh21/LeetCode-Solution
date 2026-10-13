@@ -10,8 +10,9 @@ class Solution {
       else{
         int j=(i+1) % n;
         while( i != j){
-            if(arr[j]> arr[i]){
+            if(arr[j] > arr[i]){
                 ans[i] = arr[j];
+                   st.push(arr[j]); // important for optimization
                 break;
             }
             j=(j+1) % n;
