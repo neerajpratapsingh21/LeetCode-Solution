@@ -5,13 +5,6 @@ class Solution {
        for(int i=0;i<n;i++){
         max = Math.max(nums[i],max);
        } 
-
-       int score =0;
-       while( k != 0){
-           score += max;
-           max++;
-           k--;
-       }
-       return score;
+       return (k * max) + (k * (k - 1)) / 2;
     }
 }
