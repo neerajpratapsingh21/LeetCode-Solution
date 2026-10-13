@@ -1,19 +1,18 @@
 class Solution {
-    public int[] finalPrices(int[] prices) {
-        int n =  prices.length;
-        int ans[] = new int[n];
-        for(int i=0;i<n-1;i++){
-            boolean found=false;
-            for(int j=i+1;j<n;j++){
-               if(prices[i]>=prices[j]){
-                ans[i]=prices[i]-prices[j];
-                found = true;
-                break;
-               }
-            }
-            if(!found) ans[i]=prices[i];
+    public int[] finalPrices(int[] arr) {
+      int n= arr.length;
+    int[] ans = new int [n];
+    Deque<Integer> st = new ArrayDeque<>();
+    for(int i=n-1;i>=0;i--){
+       while(!st.isEmpty() && st.peek() > arr[i]) st.pop();
+       if(st.isEmpty()) ans[i]=arr[i];
+       else ans[i]=arr[i] - st.peek();
+
+       st.push(arr[i]);
         }
-        ans[n-1]=prices[n-1];
-        return ans;
+        
+        
+    
+    return ans;
     }
 }
