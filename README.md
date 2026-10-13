@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0724-find-pivot-index) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -267,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
