@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -270,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
