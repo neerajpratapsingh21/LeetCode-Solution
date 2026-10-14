@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
