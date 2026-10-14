@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1051-height-checker) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1051-height-checker) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
