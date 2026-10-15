@@ -12,8 +12,8 @@ class Solution {
         StringBuilder ans = new StringBuilder();
 
         while(!st.isEmpty()) {
-        ans.append(st.pop());
+        ans.append(st.removeLast());
         }
-        return ans.reverse().toString();
+        return ans.toString();
     }
 }
