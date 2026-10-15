@@ -4,7 +4,7 @@ class Solution {
         int n = nums.size();
         int sum = 0;
         for(int i=0;i<n;i++){
-             Set<Integer> set = new HashSet<>();
+             Set<Integer> set = new HashSet<>(101);
             for(int j=i;j<n;j++){
              set.add(nums.get(j));
              sum += Math.pow(set.size(),2);  
