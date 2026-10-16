@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -237,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
