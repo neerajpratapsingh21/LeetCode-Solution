@@ -20,23 +20,16 @@ return newHead;
     }
     public ListNode removeNodes(ListNode head) {
         head = reverseList(head);
-        ListNode newHead= new ListNode(-1);
-        ListNode temp=newHead;
-        Deque<Integer> st = new ArrayDeque<>();
-        while(head != null){
-           if(st.isEmpty()){
-            st.push(head.val);
-           }else{
-            if(head.val >= st.peek()){
-             st.push(head.val);
+     ListNode temphead= head;
+        ListNode temp= head.next;
+        while(temp != null){
+            if(temp.val >= temphead.val){
+            temphead.next = temp;
+            temphead=temphead.next;
             }
-           }
-           head=head.next;
+            temp=temp.next;
         }
-        while(!st.isEmpty()){
-            temp.next = new ListNode(st.pop());
-            temp = temp.next;
-        }
-        return newHead.next;
+        temphead.next = null;
+        return reverseList(head);
     }
 }
