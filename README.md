@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0739-daily-temperatures) |
+| [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0917-reverse-only-letters) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
