@@ -1,23 +1,27 @@
 class Solution {
     public String reverseVowels(String s) {
-        char[] word = s.toCharArray();
-        int start = 0;
-        int end = s.length() - 1;
-        String vowels = "aeiouAEIOU";     
-        while (start < end) {
-            while (start < end && vowels.indexOf(word[start]) == -1) {
-                start++;
+        int l = 0;
+        int r = s.length()-1;
+        char[] sc =s.toCharArray(); 
+        
+        while(l<r){
+            
+            while( l<r && !(sc[l]=='A'||sc[l] == 'E'||sc[l] == 'I'||sc[l] == 'O'||sc[l] == 'U'||sc[l] == 'a'||sc[l] == 'e'||sc[l] == 'i'||sc[l] == 'o'||sc[l] == 'u')){
+                l++;
             }
-            while (start < end && vowels.indexOf(word[end]) == -1) {
-                end--;
+         while(l<r && !(sc[r]=='A'||sc[r] == 'E'||sc[r] == 'I'||sc[r] == 'O'||sc[r] == 'U'||sc[r] == 'a'||sc[r] == 'e'||sc[r] == 'i'||sc[r] == 'o'||sc[r] == 'u')){
+                r--;
             }
-            char temp = word[start];
-            word[start] = word[end];
-            word[end] = temp;
-            start++;
-            end--;
-        }    
-        String answer = new String(word);
-        return answer;
+          if(l<r){
+                char temp = sc[l];
+                sc[l] = sc[r];
+                sc[r] = temp;
+                l++;
+                r--;
+          }
+          
+
+        }
+        return new String(sc);
     }
 }
