@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 ## Interactive
 |  |
