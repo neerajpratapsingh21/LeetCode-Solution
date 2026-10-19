@@ -6,6 +6,7 @@ class Solution {
             if(nums[i]== target) {
                 ans.add(i);
             }
+            if(!ans.isEmpty() && nums[i] != target) return ans;
         }
         return ans;
            }
