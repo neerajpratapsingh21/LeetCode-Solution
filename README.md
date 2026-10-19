@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
