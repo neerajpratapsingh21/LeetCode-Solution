@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0047-permutations-ii) |
 ## Boyer–Moore Majority Vote Algorithm
