@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
