@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
