@@ -1,33 +1,25 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        Map<Integer,Integer> map = new HashMap<>();
-        ListNode temp = head;
-        while(temp != null){
-            map.put(temp.val,map.getOrDefault(temp.val,0)+1);
-            temp = temp.next;
-        }
-        temp = head;
-        ListNode dummy = new ListNode(-1);
-         ListNode t=dummy;
-        while(temp != null){
-            if(map.get(temp.val) == 1){
-                ListNode newNode = new ListNode(temp.val);
-                t.next = newNode;
-                t=t.next;
+        if (head == null || head.next == null) return head;
+
+        ListNode dummy = new ListNode(-1); // Dummy node to handle head removals
+        dummy.next = head;
+        ListNode prev = dummy;
+        ListNode cur = head;
+
+        while (cur != null && cur.next != null) {
+            if (cur.val == cur.next.val) {
+                // Skip all nodes with the same value
+                while (cur.next != null && cur.val == cur.next.val) {
+                    cur = cur.next;
+                }
+                prev.next = cur.next; // Remove duplicates
+            } else {
+                prev = prev.next; // Move to next distinct node
             }
-            temp = temp.next;
+            cur = cur.next;
         }
-        t.next = null;
-return dummy.next;
-            }
+
+        return dummy.next;
+    }
 }
