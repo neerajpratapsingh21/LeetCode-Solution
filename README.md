@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
