@@ -5,14 +5,11 @@ class Solution {
         int minlen = Integer.MAX_VALUE;
         while(r < n){
             sum += nums[r];
-           
-           
-            while(sum > target){
-                if(sum >= target) minlen = Math.min(minlen,r-l+1);
+            while(sum >= target){
+               minlen = Math.min(minlen,r-l+1);
                 sum -= nums[l];
                 l++;
             }
-            if(sum == target ) minlen = Math.min(minlen,r-l+1);
             r++;
         }
 
