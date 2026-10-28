@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1652-defuse-the-bomb) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
