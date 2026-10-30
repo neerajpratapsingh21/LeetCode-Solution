@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
+| [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2784-check-if-array-is-good](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0461-hamming-distance) |
+| [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
