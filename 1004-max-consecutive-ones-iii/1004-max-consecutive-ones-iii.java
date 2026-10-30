@@ -6,11 +6,11 @@ class Solution {
         int zeros = 0;
         for(int r = 0; r < n; r++){
             if(nums[r] == 0) zeros++;
-            while( zeros > k ){
+            if( zeros > k ){
               if(nums[l] == 0) zeros--;
               l++;
             }
-            maxlen = Math.max(maxlen,r-l+1);
+            if(zeros <= k) maxlen = Math.max(maxlen,r-l+1);
         }
         return maxlen;
     }
