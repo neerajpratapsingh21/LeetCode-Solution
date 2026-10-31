@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
