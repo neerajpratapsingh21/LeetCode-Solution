@@ -4,7 +4,7 @@ class Solution {
         int l = 0;
         int maxlen = 0;
         int maxfreq = 0;
-        Map<Character,Integer> map = new HashMap<>();
+        Map<Character,Integer> map = new HashMap<>(26);
           for(int r = 0; r<n; r++){
           map.put(s.charAt(r),map.getOrDefault(s.charAt(r),0)+1);
           maxfreq = Math.max(maxfreq,map.get(s.charAt(r)));
