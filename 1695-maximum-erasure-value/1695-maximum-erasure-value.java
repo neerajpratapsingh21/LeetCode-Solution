@@ -7,6 +7,7 @@ class Solution {
         int sum = 0;
         int maxsum = 0;
         while( r < n ){
+             sum += nums[r];
             if(map.containsKey(nums[r])){
                 int i = l;
                 l = Math.max(l,map.get(nums[r])+1);
@@ -15,7 +16,7 @@ class Solution {
                     i++;
                 }
             }
-            sum += nums[r];
+           
              maxsum = Math.max(maxsum, sum);
              map.put(nums[r],r);
              r++;
