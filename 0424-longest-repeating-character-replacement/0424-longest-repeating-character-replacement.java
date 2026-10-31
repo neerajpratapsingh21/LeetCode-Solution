@@ -4,14 +4,13 @@ class Solution {
         int l = 0;
         int maxlen = 0;
         int maxfreq = 0;
-        Map<Character,Integer> map = new HashMap<>(26);
+        int freq[] = new int[26];
           for(int r = 0; r<n; r++){
-          map.put(s.charAt(r),map.getOrDefault(s.charAt(r),0)+1);
-          maxfreq = Math.max(maxfreq,map.get(s.charAt(r)));
+          freq[s.charAt(r)-'A']++;
+          maxfreq = Math.max(maxfreq,freq[s.charAt(r)-'A']);
           int change = (r-l+1) - maxfreq;
           if(change > k){
-            map.put(s.charAt(l),map.get(s.charAt(l))-1);
-            if(map.get(s.charAt(l))==0) map.remove(s.charAt(l));
+            freq[s.charAt(l)-'A']--;
             l++;
           }
           if(change <= k){
