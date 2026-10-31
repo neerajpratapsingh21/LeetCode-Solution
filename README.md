@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
