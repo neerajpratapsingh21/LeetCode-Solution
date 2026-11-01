@@ -6,11 +6,13 @@ class Solution {
       int maxlen = 0;
       for(int i = 0; i<n; i++){
         if(nums[i] == 0) c++;
-        while(c>1){
+        if(c>1){
             if(nums[l]==0) c--;
             l++;
         }
+        if(c<=1){
         maxlen = Math.max(maxlen, i-l+1-c);
+        }
       }
       if(maxlen == n){
         return n-1;
