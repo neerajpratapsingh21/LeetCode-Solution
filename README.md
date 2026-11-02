@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
