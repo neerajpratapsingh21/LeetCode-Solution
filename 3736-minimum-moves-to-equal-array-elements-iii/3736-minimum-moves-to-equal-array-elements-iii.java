@@ -1,14 +1,16 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int n = nums.length;
+         
+        
         int max = 0;
-        for(int i = 0; i < n; i++){
-            max = Math.max(max,nums[i]);
+        int sum = 0;
+
+        for(int num : nums){
+            max = Math.max(max, num);
+            sum += num;
         }
-        int c = 0;
-        for(int i = 0; i < n; i++){
-         c += max - nums[i];
-        }
-        return c;
+
+        return nums.length * max - sum;
+    
     }
 }
