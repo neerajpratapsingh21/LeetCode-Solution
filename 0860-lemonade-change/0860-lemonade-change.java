@@ -2,10 +2,10 @@ class Solution {
     public boolean lemonadeChange(int[] bills) {
         int n  =  bills.length;
         int coin[] = new int[2];
-        for(int i=0; i<n; i++){
-            if(bills[i] == 5){
+        for(int i : bills){
+            if(i == 5){
                 coin[0]++;
-            }else if(bills[i] == 10){
+            }else if(i == 10){
                 if(coin[0] == 0) return false;
                 coin[0]--;
                 coin[1]++;
