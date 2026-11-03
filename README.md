@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0821-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0860-lemonade-change) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
