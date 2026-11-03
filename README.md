@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
