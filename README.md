@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0435-non-overlapping-intervals) |
