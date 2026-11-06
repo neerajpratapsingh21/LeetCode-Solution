@@ -13,22 +13,17 @@ class Solution {
                 left[i] = 1;
             }
         }
-        count = 1;
-        int[] right = new int[n];
-        right[n-1] = 1;
+         int candy = left[n-1];
+       int curr = 1; 
         for(int i = n-2; i >= 0; i--){
             if(ratings[i] > ratings[i+1]){
-                right[i] = count+1;
-                count++;
+                 curr++;
             }else{
-                count = 1;
-                right[i] = 1;
+               curr = 1;
             }
+            candy += Math.max(left[i],curr);
         }
-        int candy = 0;
-        for(int i = 0; i<n; i++){
-           candy += Math.max(left[i],right[i]);
-        }
+       
         return candy;
     }
 }
