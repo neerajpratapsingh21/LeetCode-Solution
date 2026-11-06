@@ -1,29 +1,32 @@
 class Solution {
     public int candy(int[] ratings) {
         int n = ratings.length;
-        int[] left = new int[n];
-        left[0]=1;
-        int count = 1;
-        for(int i = 1; i < n; i++){
-            if(ratings[i] > ratings[i-1]){
-                left[i] = count+1;
-                count++;
-            }else{
-                count = 1;
-                left[i] = 1;
+
+         int candy = 1;
+         int i = 1;
+         while( i < n){
+            if(ratings[i] == ratings[i-1]){
+                candy += 1;
+                i++;
+                continue;
             }
-        }
-         int candy = left[n-1];
-       int curr = 1; 
-        for(int i = n-2; i >= 0; i--){
-            if(ratings[i] > ratings[i+1]){
-                 curr++;
-            }else{
-               curr = 1;
+            int peak = 1;
+
+            while(i<n && ratings[i] > ratings[i-1]){
+                peak++;
+                candy+=peak;
+                i++;
             }
-            candy += Math.max(left[i],curr);
-        }
-       
+            int down = 1;
+            while(i<n && ratings[i] < ratings[i-1]){
+                candy += down;
+                i++;
+                down++;
+            }
+            if(down > peak){
+                candy += down - peak;   
+            }
+         }
         return candy;
     }
 }
