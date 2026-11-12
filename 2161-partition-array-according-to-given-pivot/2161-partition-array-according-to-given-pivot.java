@@ -10,17 +10,17 @@ class Solution {
             else if(i == p) pivot.add(i);
             else after.add(i);
         }
-        int[] ans = new int[n];
+        
         int ind = 0;
         for(int i : before){
-            ans[ind++] = i;
+            nums[ind++] = i;
         }
         for(int i : pivot){
-            ans[ind++] = i;
+            nums[ind++] = i;
         }
         for(int i : after){
-            ans[ind++] = i;
+            nums[ind++] = i;
         }
-        return ans;
+        return nums;
     }
 }
