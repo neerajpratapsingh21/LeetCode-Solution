@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2614-prime-in-diagonal](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
