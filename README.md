@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
@@ -415,12 +417,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
