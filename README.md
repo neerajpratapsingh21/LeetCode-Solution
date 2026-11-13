@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0260-single-number-iii) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -538,4 +543,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2614-prime-in-diagonal) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
