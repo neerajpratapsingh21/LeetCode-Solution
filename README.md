@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1695-maximum-erasure-value) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Quicksort
