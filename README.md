@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Quicksort
 |  |
 | ------- |
