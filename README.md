@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1051-height-checker) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2784-check-if-array-is-good](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
