@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
