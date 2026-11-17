@@ -32,20 +32,24 @@ class Solution {
         return true;
     }
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+       if (head == null || head.next == null) {
+        return true;
+    }
 
-        while( fast != null && fast.next != null && fast.next.next != null ){
-            slow = slow.next;
-            fast = fast.next.next;
-        } 
+    ListNode slow = head;
+    ListNode fast = head;
 
-        ListNode temp = slow.next;
-        slow.next =  null;
+    while (fast.next != null && fast.next.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+    }
 
-        ListNode newHead = reverse(temp);
-        
-        return isValid(head,newHead);
-        
+    ListNode secondHalfHead = reverse(slow.next);
+    boolean result = isValid(head, secondHalfHead);
+
+    // Optional: Restore the original list structure
+    slow.next = reverse(secondHalfHead);
+
+    return result;
     }
 }
