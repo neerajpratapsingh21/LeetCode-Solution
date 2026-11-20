@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
