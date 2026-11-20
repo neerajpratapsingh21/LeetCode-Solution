@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0724-find-pivot-index) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0594-longest-harmonious-subsequence) |
