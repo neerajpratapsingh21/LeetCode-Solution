@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2614-prime-in-diagonal](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Number Theory
 |  |
 | ------- |
