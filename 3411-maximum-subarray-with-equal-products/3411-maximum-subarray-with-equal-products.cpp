@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxLength(vector<int>& nums) {
         int best = 2, left = 0, product = 1;
-        for (int right = 0; right < ssize(nums); ++right) {
+        for (int right = 0; right < nums.size(); ++right) {
             int x = nums[right];
             while (gcd(product, x) > 1)
                 product /= nums[left++];
