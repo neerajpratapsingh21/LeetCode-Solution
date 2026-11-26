@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3360-stone-removal-game](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3360-stone-removal-game) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2614-prime-in-diagonal](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
